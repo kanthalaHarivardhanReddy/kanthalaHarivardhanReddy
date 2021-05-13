@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanthalaHarivardhanReddy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stact Web Development 
+- 🌱 I’m currently learning MERN stack Web Development 
 - 📫 How to reach me kanthala.hari.198@gmail.com 
 
 <!---

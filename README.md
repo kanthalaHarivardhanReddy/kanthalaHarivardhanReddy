@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @kanthalaHarivardhanReddy
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stack Web Development 
+- 🌱 I’m a MERN stack Web Developer
 
 I'm a self-taught passionate developer from India 🇮🇳
 
@@ -25,4 +25,4 @@ I'm a self-taught passionate developer from India 🇮🇳
 
 
 <!-- ACTIVITY GRAPH TRACKER -->
-[![harivardhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanthalaharivardhanreddy&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+<!-- [![harivardhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=kanthalaharivardhanreddy&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph) -->
